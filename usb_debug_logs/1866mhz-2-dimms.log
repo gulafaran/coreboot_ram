@@ -1,6 +1,3 @@
-ÿÿÀðøUSB
-
-
 coreboot-4.12-3940-g136380fcac-dirty Mon Nov  9 10:38:32 UTC 2020 bootblock starting (log level: 8)...
 FMAP: Found "FLASH" version 1.1 at 0x810000.
 FMAP: base = 0xff400000 size = 0xc00000 #areas = 4
